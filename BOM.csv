@@ -1,0 +1,19 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C2,C11,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24",13,100nF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+"C3,C4,C5,C6,C12,C25,C26",7,1uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+"C7,C8,C9,C10",4,27pF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+C27,1,10uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+D1,1,LED_BLUE,,,,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+D2,1,LED_ORANGE,,,,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+J2,1,USB_A_MALE,,,,480370001:CONN_480370001_MOL,~
+J3,1,USB_A_FEMALE,,,,292303-5:CONN4_292303_TEC,~
+"R1,R2",2,33R,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+"R3,R4",2,27R,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+"R5,R6",2,10k,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+"TP1,TP2",2,TestPoint,,,,,~
+U1,1,RP2040,,,,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+U2,1,W25Q32JVSS,,,,Package_SO:SOIC-8_5.3x5.3mm_P1.27mm,http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf
+U3,1,AP2112K-3.3,,,,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf
+"U4,U6",2,USBLC6-2SC6,,,,Package_TO_SOT_SMD:SOT-23-6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+U5,1,MAX3421EETJ_,,,,MAX3421EETJ:21-0140L_T3255-4_MXM,
+"Y1,Y2",2,12MHz,,,,Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering,~
